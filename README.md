@@ -16,6 +16,7 @@ Requirements:
      3.Js
     
   Open source Libraies:
+  
     Python Libraies:
       1.NLTK
       2.numpy
