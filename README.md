@@ -1,6 +1,7 @@
 # KCG_ChatBot
 
 Information Retrieval Based chat bot
+
 Requirements:
    Backend:
      1.Python 3.6
@@ -26,11 +27,13 @@ Requirements:
     Css Libraies:
       1.Bootstrap
       2.Fonts.google
-      3.Fonts-awesome    
-   
+      3.Fonts-awesome       
 
 For user friendliness and convenience, a more concise user interface was developed. 
 
 In addition, JS, HTML and CSS were employed in designing the chatbot user interface.
 
 In addition, to improve user experience when interacting with chatbots, simple greetings to the user has be implemented as well.
+
+Chatbot will retrieve and display the answer, which is selected based on the highest similarity between the question bank and user’s question.
+
