@@ -35,7 +35,7 @@ Requirements:
 
 For user friendliness and convenience, a more concise user interface was developed. 
 
-In addition, JS, HTML and CSS were employed in designing the chatbot user interface.
+In addition, JS, HTML and CSS were employed in designing the chatbot user interface..
 
 In addition, to improve user experience when interacting with chatbots, simple greetings to the user has be implemented as well.
 
