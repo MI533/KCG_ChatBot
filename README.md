@@ -59,6 +59,40 @@ What about Placement in your college?
 Stemming: Place
 Stopwords: Place is present.
 So it will not retrieve any results for the keyword placement.
+
+Keywords:
+  Information about college
+  
+  Location
+  
+  History
+  
+  Ug courses
+  
+  Pg courses
+  
+  Innovation cell
+  
+  Entrepreneurship cell
+  
+  Mou
+  
+  Campus Facilities
+  
+  Sports
+  
+  Hostel Accomodation
+  
+  Kcg connect
+  
+  HYLC
+  
+  Objectieves
+  
+  Mission
+  
+  Vision
+  
       
     DB creation query:
       CREATE TABLE `chat_usr`.`usr` ( `s.no` INT NOT NULL AUTO_INCREMENT , `usr_name` VARCHAR(30) NOT NULL , `usr_phone` BIGINT(20) NOT       NULL , `usr_email` VARCHAR(30) NOT NULL , `date_time` DATETIME NOT NULL , `query` VARCHAR(250) NOT NULL , PRIMARY KEY (`s.no`))         ENGINE = InnoDB;
