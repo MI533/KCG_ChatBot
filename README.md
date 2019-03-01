@@ -35,6 +35,8 @@ Types of Bot:
    2. Machine Learning bot.
    
 Steps in Chatbot Created for KCG College of Technology:
+
+
    1. The chat file written in python language reads the backend database which contains the details
       about the customer.
       
@@ -44,7 +46,8 @@ Steps in Chatbot Created for KCG College of Technology:
    
    4. First NLTK Library updates its tokens by updating is wordnet, punkt packages.
    
-   5. The details in the database are converted into sentences.
+   5. The details in the database are converted into sentences.The details are taken from the wikipedia college
+      site:https://en.wikipedia.org/wiki/KCG_College_of_Technology
    
    6. Sentences are converted into words.
    
@@ -60,38 +63,39 @@ Stemming: Place
 Stopwords: Place is present.
 So it will not retrieve any results for the keyword placement.
 
-Keywords:
-  Information about college
-  
-  Location
-  
-  History
-  
-  Ug courses
-  
-  Pg courses
-  
-  Innovation cell
-  
-  Entrepreneurship cell
-  
-  Mou
-  
-  Campus Facilities
-  
-  Sports
-  
-  Hostel Accomodation
-  
-  Kcg connect
-  
-  HYLC
-  
-  Objectieves
-  
-  Mission
-  
-  Vision
+Keywords to retrieve:
+1.	Information about college
+
+2.	Location
+
+3.	History
+
+4.	Ug courses
+
+5.	Pg courses
+
+6.	Innovation cell
+
+7.	Entrepreneurship cell
+
+8.	Mou
+
+9.	Campus Facilities
+
+10. Sports
+
+11. Hostel Accomodation
+
+12. Kcg connect
+
+13. HYLC
+
+14. Objectieves
+
+15. Mission
+
+16. Vision
+
   
       
     DB creation query:
@@ -107,3 +111,5 @@ Chatbot will retrieve and display the answer, which is selected based on the hig
 
 NOTE:
    Run this in google chrome browser for better experience with UI.
+   
+   Click the logo at right bottom of the page to continue with KCG chatbot.
