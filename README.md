@@ -2,14 +2,15 @@
 
 Information Retrieval Based chat bot
 Requirements:
-  Backend:
-    1.Python 3.6
-    2.Php
+   Backend:
+     1.Python 3.6
+     2.Php
+     3.Webserver 
     
-  Frontend:
-    1.Html
-    2.Css
-    3.js
+   Frontend:
+     1.Html
+     2.Css
+     3.js
     
   Open source Libraies:
     Python Libraies:
