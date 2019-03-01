@@ -23,8 +23,8 @@ def LemNor(text):
 
 GREETING_INPUTS = ("hello", "hi", "greetings", "sup", "what's up","hey",)
 GREETING_INPUTS1 = ("Admission under Management Quota",)
-GREETING_RESPONSES = ["Hi, Welcome to KCG college","Hello, Welcome to KCG college"]
-GREETING_RESPONSES1 = ["Please call +91-44-2233 9260 for admission details"]
+GREETING_RESPONSES = ["\nHi, Welcome to KCG college","\nHello, Welcome to KCG college"]
+GREETING_RESPONSES1 = ["\nPlease call +91-44-2233 9260 for admission details"]
 def greeting(sentence):
  
     for word in sentence.split():
@@ -47,7 +47,7 @@ def response(user_response):
     req_tfidf = flat[-2]
  
     if(req_tfidf==0):
-        robo_response=robo_response+"I am sorry! I don't understand you"
+        robo_response=robo_response+"\nI am sorry! I don't understand you"
         return robo_response
     else:
         robo_response = robo_response+sent_tok[idx]
@@ -66,7 +66,7 @@ user_response=user_response.lower()
 if(user_response!='bye'):
 	if(user_response=='thanks' or user_response=='thank you' ):
 		flag=False
-		print("You are welcome..")
+		print("\nYou are welcome..")
 	else:
 		if(greeting(user_response)!=None):
 			print(greeting(user_response))
@@ -78,4 +78,4 @@ if(user_response!='bye'):
 			sent_tok.remove(user_response)
 else:
 	flag=False
-	print("Bye! take care.")
+	print("\nBye! take care..")
