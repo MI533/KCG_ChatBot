@@ -1,5 +1,5 @@
 Information about College
-KCG College of Technology is an Engineering college in Chennai, Tamil Nadu, India and It was founded in 1998 to fulfill the Founder-Chairman, Dr.K.C.G.Verghese's vision of "making every man a success and no man a failure". 
+KCG College of Technology is an Engineering college in Chennai, Tamil Nadu, India and It was founded in 1998 to fulfill the Founder-Chairman, Dr.K.C.G.Verghese's aim of "making every man a success and no man a failure". 
 
 Location
 The College is located at Karapakkam, about 8 kilometers from Adyar (South Chennai) on the Old Mahabalipuram Road (IT Highway). 
@@ -9,22 +9,22 @@ KCG College of Technology was founded in 1998, It is a Christian minority instit
 
 
 UG Courses(Under Graduate):
-• Automobile Engineering,
-• Aeronautical Engineering,
-• Civil Engineering,
-• Computer Science and Engineering,
-• Electronics and Instrumentation Engineering,
-• Electrical and Electronics Engineering,
-• Electronics and Communication Engineering,
-• Mechanical Engineering,
-• Information Technology and
-• Fashion Technology. 
+1) Automobile Engineering,
+2) Aeronautical Engineering,
+3) Civil Engineering,
+4) Computer Science and Engineering,
+5) Electronics and Instrumentation Engineering,
+6) Electrical and Electronics Engineering,
+7) Electronics and Communication Engineering,
+8) Mechanical Engineering,
+9) Information Technology and
+10) Fashion Technology. 
 
 PG Courses(Post Graduate):
-• Communication System,
-• Computer Science and Engineering,
-• Manufacturing Design,
-• Power Electronics & Drives.
+1) Communication System,
+2) Computer Science and Engineering,
+3) Manufacturing Design,
+4) Power Electronics & Drives.
 
 Innovation-Cell (i-Cell)
 The College has an active Innovative-Cell (I-Cell) which gives the students an excellent platform to put forward their innovative ideas. 
@@ -36,24 +36,24 @@ MOU's
 KCG College of Technology has entered into a number of Industry-Institution partnerships through Memorandum of Understanding (MoU) with various foreign governments and organizations for training, technical collaboration and consultancy. 
 
 CAMPUS Facilities
-• Cafeteria 'TEK CAFE'
-• Aavin snacks
-• Campus Store
-• STD/ISD-Telephone Facility
-• RO Water Plant
-• Union Bank of India - ATM
-• Transport
-• Library.
+1) Cafeteria 'TEK CAFE'
+2) Aavin snacks
+3) Campus Store
+4) STD/ISD-Telephone Facility
+5) RO Water Plant
+6) Union Bank of India - ATM
+7) Transport
+8) Library.
 
 Sports
 The Institution has excellent playgrounds and needs for Basketball, Football, Hockey, Volleyball, Cricket and Badminton. 
 
 Hostel accommodation
 All the hostels are provided with dining halls, un-interrupted water supply, reading halls, round the clock STD, ISD booths, indoor recreation, and round the clock medical need. 
-• Double Room with common bathroom
-• Double Room (Bath attached)
-• Triple Room with bath attached
-• Triple Room with common bathroom. 
+1) Double Room with common bathroom
+2) Double Room (Bath attached)
+3) Triple Room with bath attached
+4) Triple Room with common bathroom. 
 
 HYLC 2015
 KCG College of Technology will be hosting HYLC in collaboration with EuroMUN, the largest MUN Conference in Europe and the United Nations Information Centre India and Bhutan. 
@@ -63,3 +63,12 @@ KCG Connect is the alumni association of KCG College of Technology, Formally ina
 
 Objectives of the Institution
 The main objective of the college is to assist the students in bringing out the best of their abilities and to train them to become successful professionals.  To achieve this, the college endeavors to provide them with these facilities.
+
+VISION of college
+KCG College of Technology aspires to become a globally recognized centre of excellence for science, technology & engineering education, committed to quality teaching, learning and research while ensuring for every student a unique educational experience which will promote leadership, job creation, social commitment and service to nation building. 
+
+MISSION
+1) Disseminate knowledge in a rigorous and intellectually stimulating environment,
+2) Facilitate socially responsive research, innovation and entrepreneurship,
+3) Foster holistic development and professional competency,
+4) Nurture the virtue of service and an ethical value system in the young minds.
