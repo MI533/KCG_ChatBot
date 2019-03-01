@@ -7,8 +7,8 @@ import sys
 doc=open('kcg_data.txt','r',errors = 'ignore')
 data=doc.read()
 data=data.lower()
-#nltk.download('punkt')
-#nltk.download('wordnet')
+#nltk.download('punkt') #once download this file by removing comment
+#nltk.download('wordnet') #once download this file by removing comment
 
 
 sent_tok = nltk.sent_tokenize(data) 
@@ -78,4 +78,4 @@ if(user_response!='bye'):
 			sent_tok.remove(user_response)
 else:
 	flag=False
-	print("Bye! take care...")
+	print("Bye! take care..")
