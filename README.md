@@ -41,3 +41,5 @@ In addition, to improve user experience when interacting with chatbots, simple g
 
 Chatbot will retrieve and display the answer, which is selected based on the highest similarity between the question bank and user’s question.
 
+NOTE:
+   Run this in google chrome browser for better experience with UI.
