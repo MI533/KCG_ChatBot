@@ -7,6 +7,7 @@ Requirements:
      1.Python 3.6
      2.Php
      3.Webserver 
+     4.My SQL(php MyAdmin)
     
    FrontEnd:
      1.Html
