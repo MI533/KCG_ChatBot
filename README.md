@@ -28,7 +28,37 @@ Requirements:
     Css Libraies:
       1.Bootstrap
       2.Fonts.google
-      3.Fonts-awesome      
+      3.Fonts-awesome    
+      
+Types of Bot:
+   1. Retrieval bot.
+   2. Machine Learning bot.
+   
+Steps in Chatbot Created for KCG College of Technology:
+   1. The chat file written in python language reads the backend database which contains the details
+      about the customer.
+      
+   2. The chat application retrieves those sentences that match the user query.
+   
+   3. Natural Language Tool Kit Library is used for token matching.
+   
+   4. First NLTK Library updates its tokens by updating is wordnet, punkt packages.
+   
+   5. The details in the database are converted into sentences.
+   
+   6. Sentences are converted into words.
+   
+   7. Concepts like Stopwords Removal, Stemming are applied.
+   
+   8. After step 7, only those tokens will remain the backend database.
+   
+   9. When user inputs a query, the query that matches with tokens in the backend database is
+      retrieved as response by the system to the user.
+Eg:
+What about Placement in your college?
+Stemming: Place
+Stopwords: Place is present.
+So it will not retrieve any results for the keyword placement.
       
     DB creation query:
       CREATE TABLE `chat_usr`.`usr` ( `s.no` INT NOT NULL AUTO_INCREMENT , `usr_name` VARCHAR(30) NOT NULL , `usr_phone` BIGINT(20) NOT       NULL , `usr_email` VARCHAR(30) NOT NULL , `date_time` DATETIME NOT NULL , `query` VARCHAR(250) NOT NULL , PRIMARY KEY (`s.no`))         ENGINE = InnoDB;
