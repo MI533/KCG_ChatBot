@@ -20,5 +20,5 @@ $db -> close();
 
 }
 ?>
-</body> 
+</body>
 </html>
