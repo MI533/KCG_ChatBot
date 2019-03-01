@@ -28,7 +28,10 @@ Requirements:
     Css Libraies:
       1.Bootstrap
       2.Fonts.google
-      3.Fonts-awesome       
+      3.Fonts-awesome      
+      
+    DB creation query:
+      CREATE TABLE `chat_usr`.`usr` ( `s.no` INT NOT NULL AUTO_INCREMENT , `usr_name` VARCHAR(30) NOT NULL , `usr_phone` BIGINT(20) NOT       NULL , `usr_email` VARCHAR(30) NOT NULL , `date_time` DATETIME NOT NULL , `query` VARCHAR(250) NOT NULL , PRIMARY KEY (`s.no`))         ENGINE = InnoDB;
 
 For user friendliness and convenience, a more concise user interface was developed. 
 
